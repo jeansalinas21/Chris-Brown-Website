@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+</head>
+<style>
+body {color:green;}
+nav ul {
+	display: flex;
+	padding: 0;
+    list-style-type: none;
+}
+
+nav ul a {
+	padding: 10px;
+}
+body {font-family: 'Oswald', sans-serif;}
+</style>
+<body>
+<nav>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="letter-to-my-future-self.html">Letter to My Future Self</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<h1>Home</h1>
+<p>Bronx,New York.</p>
+<h2>About Me</h2>
+<p2>Hi my name is Chris but everyone calls me CB some of the things I like to do is make videos,write,and skateboard with friends.</p2>
+<img src=https://images.unsplash.com/photo-1503441669932-76d3a4625eb9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=994&q=80>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/WpCijxzvucg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Contact Info</h3>
+<p3>christopher.brown@bsswa.org</p3>
+<h4>Letter To Myself</h4>
+<p4> Dear Me,
+
+One of the goals that I have for myself is to be as consistent and motivated to the things I am passionate about.I hope that by the time of the end of this year we’ll have a car,we’ll look for a college of our interest,and that we’ll achieve the things that are headed for our life.I hope that from the time being you’ll be proud at what we’ve accomplished together in order to break those roadblocks that are ahead.So from the time being to my future self I hope this is the outcome we’re satisfied with.
+
+                                                                                            Sincerely,
+                                                                                            Your Past Self</p4>
+
+</body>
+</html>
